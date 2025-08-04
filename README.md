@@ -26,3 +26,9 @@ nmap --version
 
 Nmap version 7.80 ( https://nmap.org )
 Platform: x86_64-pc-linux-gnu
+
+ip a
+
+
+inet 192.168.0.7/24 brd 192.168.0.255 scope global dynamic ...
+
